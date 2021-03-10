@@ -1,0 +1,12 @@
+﻿  IntegerOperation.cpp
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(36,44): error C3867: 'IntegerOperation::getResult': non-standard syntax; use '&' to create a pointer to member
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(36,44): error C2296: '+': illegal, left operand has type 'int (__thiscall IntegerOperation::* )(void) const'
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(43,44): error C3867: 'IntegerOperation::getResult': non-standard syntax; use '&' to create a pointer to member
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(43,44): error C2296: '+': illegal, left operand has type 'int (__thiscall IntegerOperation::* )(void) const'
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(50,44): error C3867: 'IntegerOperation::getResult': non-standard syntax; use '&' to create a pointer to member
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(50,44): error C2296: '+': illegal, left operand has type 'int (__thiscall IntegerOperation::* )(void) const'
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\Source\Repos\Exam_OOp_zad1\Exam_OOp_zad1\IntegerOperation.cpp(107,20): warning C4018: '<': signed/unsigned mismatch

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pc\Source\Repos\Exam_OOP_2ra_zad\Exam_OOP_2ra_zad\Hand.h(30,20): warning C4018: '<': signed/unsigned mismatch
+Source.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Cards::print(void)const " (?print@Cards@@UBEXXZ)
+C:\Users\pc\Source\Repos\Exam_OOP_2ra_zad\Debug\Exam_OOP_2ra_zad.exe : fatal error LNK1120: 1 unresolved externals
